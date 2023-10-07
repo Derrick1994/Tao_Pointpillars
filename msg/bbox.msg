@@ -1,0 +1,9 @@
+float32 x
+float32 y
+float32 z
+float32 w
+float32 l
+float32 h
+float32 rt
+uint8 id
+float32 score
