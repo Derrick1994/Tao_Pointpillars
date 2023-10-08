@@ -1,0 +1,1 @@
+This Ros node is used for real-time inference of Pointpillars. The onnx model comes from the Tao toolchain. In orin, Jetpack 5.0.2, trtexec is used to complete engine model transformation and ROS compilation. By subscribing to the corresponding point cloud message topic, real-time inference is completed and the recognized box results are published through the topic
